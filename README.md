@@ -8,7 +8,7 @@ command-line program to manage student marks and grades, built in python.
 - Show the topper
 - Save  students to a JSON file and load them back
 - Menu-driven command-line interface
-- Marks validation
+- Marks validation (only 0 to 100 allowed)
 
 ## How to run
 
