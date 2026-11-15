@@ -1,8 +1,8 @@
-# student grade manager
+# Student Grade Manager
 
 command-line program to manage student marks and grades, built in python.
 
-## features
+## Features
 - Add a student with marks
 - Calculate a grade for each student
 - Show the topper
@@ -10,11 +10,12 @@ command-line program to manage student marks and grades, built in python.
 - Menu-driven command-line interface
 - Marks validation
 
-## how to run
+## How to run
 
-python student_grade_manager.py
+ '''
+ python student_grade_manager.py '''
 
-## concepts
+## Concepts
 
 - JSON file handling
 - try/except and custom exceptions
