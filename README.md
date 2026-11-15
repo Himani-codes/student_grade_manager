@@ -12,8 +12,9 @@ command-line program to manage student marks and grades, built in python.
 
 ## How to run
 
- '''
- python student_grade_manager.py '''
+ ```
+ python student_grade_manager.py
+```
 
 ## Concepts
 
